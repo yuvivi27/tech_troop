@@ -1,0 +1,64 @@
+.bar{
+  position: absolute;
+  width: 40px;
+  background-color: grey;
+  bottom: 0;
+}
+
+.square{
+  position: relative;
+  background-color: blueviolet;
+  width: 500px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+#bar1{
+  height: 60px;
+  left: 5px;
+  bottom: 8px
+}
+
+#bar2{
+  height: 200px;
+  left: 85px;
+  bottom: 8px;
+}
+
+#bar3{
+  height: 220px;
+  left: 160px;
+  bottom: 8px
+}
+
+#bar4{
+  height: 65px;
+  left: 240px;
+  bottom: 8px
+}
+
+#bar5{
+  height: 60px;
+  left: 320px;
+  bottom: 8px
+}
+
+#bar6 {
+  height: 45px;
+  left: 400px;
+  bottom: 8px
+}
+
+.top-left{
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+}
+
+.bottom-right{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  font-size: 20px;
+}
