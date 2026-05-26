@@ -1,0 +1,23 @@
+#container{
+  display: inline-block;
+  background-color:lightgray;
+}
+
+#first{
+  background-color: rgb(55, 155, 145);
+}
+
+#second{
+  background-color: rgb(253, 165, 0);
+}
+
+.button{
+  background-color: rgb(17, 157, 17);
+}
+
+.box{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border: 1px solid black;
+}

@@ -1,0 +1,12 @@
+a{
+  color: blue;
+  background-color: rgb(228, 207, 178);
+  border-color: black;
+  border: 1px solid black;
+  border-radius: 2px;
+  
+}
+
+a:hover {
+            background-color: #e0e0e0;
+        }

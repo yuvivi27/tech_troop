@@ -1,0 +1,26 @@
+body {
+  background-color: #fafafa;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #e64a19;
+}
+
+img {
+  border: 1px solid #ccc;
+}
+
+.recipe-box {
+  background-color: white;
+  width: 400px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: left;
+}
+
+a {
+  color: #e64a19;
+}

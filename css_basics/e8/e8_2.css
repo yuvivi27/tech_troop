@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+  background-color: #f4f7f6;
+  color: #333333;
+  padding: 30px;
+}
+
+h1 {
+  color: #c0392b;
+  text-align: center;
+}
+
+h2 {
+  color: #2980b9;
+}
+
+ol, ul {
+  background-color: white;
+  border: 1px solid #cccccc;
+  padding: 20px 40px;
+  width: 350px;
+}
+
+li {
+  padding: 5px 0;
+}
