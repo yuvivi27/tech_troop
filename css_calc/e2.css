@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.container {
+  display: flex; 
+  width: 40%;
+  height: 300px;
+}
+
+.section {
+  width: calc(100%/3); 
+  background-color: #3498db;
+  color: white;
+  padding: 20px; 
+  box-sizing: border-box;
+  border: 1px solid black;
+}
