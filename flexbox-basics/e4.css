@@ -1,0 +1,50 @@
+.flexbox-container{
+  display: flex;
+  width: 25%;
+}
+
+.flexbox-item{
+  display: flex;
+  width: 100%;
+  background-color: rgb(249, 249, 249);
+  border: 6px solid pink;
+  min-width: 0;
+  height: 700px;
+  overflow-wrap: break-word;
+  
+}
+
+.flexbox-item1{
+  flex: 1;
+  justify-content: flex-end;
+  flex-direction: column;
+  flex-wrap: wrap;
+
+}
+
+.flexbox-item2{
+  flex: 4;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+p{
+  font-size: 20px;
+  margin: 20px;
+}
+
+.flexbox-item + .flexbox-item{
+  border-left: none;
+}
+
+.stripe{
+  background-color: pink;
+  height: 10px;
+  margin: 20px;
+  width: 80%;
+}
+
+.short-stripe{
+  width: 50%;
+}
