@@ -59,3 +59,35 @@
   background-color: #3b82f6;
   color: #ffffff;
 }
+
+.about-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  gap: 4rem;
+}
+
+.about-text {
+  flex: 2;
+}
+
+.about-text p {
+  color: #4b5563;
+  font-size: 1.125rem;
+}
+
+.skills-box {
+  flex: 1;
+}
+
+.skills-box h3 {
+  margin-bottom: 1.5rem;
+}
+
+.skills-box p {
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: #1f2937;
+}
